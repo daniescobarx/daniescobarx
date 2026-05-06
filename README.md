@@ -1,4 +1,6 @@
-#### Hi, I'm Daniela. Software Developer and Computer Science student. 
+#### Hi, I'm Daniela. Software Developer 
+
+Solid experience in building Java applications and AI integrations.
 
 ---
 
